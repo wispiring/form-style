@@ -1,0 +1,25 @@
+{
+  "name": "form-style",
+  "homepage": "https://github.com/wispiring/form-style",
+  "authors": [
+    "Hongliang <code@hongliang.nl>"
+  ],
+  "description": "Wispiring Form style",
+  "main": "",
+  "keywords": [
+    "form",
+    "style",
+    "css",
+    "javascript",
+    "wispiring",
+    "symfony"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

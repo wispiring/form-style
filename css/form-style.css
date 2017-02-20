@@ -1,0 +1,13 @@
+.required::after {
+    content: '*';
+}
+:required {
+    box-shadow: -2px 0px 0px rgba(60, 118, 61, 0.7);
+    border-left-color: transparent;
+}
+:required:focus {
+    box-shadow: -2px 0px 0px rgba(60, 118, 61, 0.7);
+}
+:required:invalid {
+    box-shadow: -2px 0px 0px rgba(169, 68, 66, 1);
+}
