@@ -3,6 +3,12 @@ Simple HTML Form style
 
 Form-style is a very simple css/javascript plugin to style your forms.
 
+## Installation
+Install this module and its dependencies using bower:
+```
+bower install --save form-style
+```
+
 ## Features
 
 #### Automatically highlight required form elements
