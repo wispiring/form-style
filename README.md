@@ -8,6 +8,10 @@ Install this module and its dependencies using bower:
 ```
 bower install --save form-style
 ```
+Or yarn:
+```
+yarn add form-style
+```
 
 ## Features
 
