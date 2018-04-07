@@ -1,6 +1,6 @@
 {
   "name": "form-style",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Generic HTML form CSS styles",
   "main": "index.js",
   "repository": "git@github.com:wispiring/form-style.git",
