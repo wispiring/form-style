@@ -1,0 +1,15 @@
+@import 'variable';
+
+.required::after {
+    content: $postfix;
+}
+:required {
+    box-shadow: -2px 0px 0px $success-color;
+    border-left-color: transparent;
+}
+:required:focus {
+    box-shadow: -2px 0px 0px $success-color;
+}
+:required:invalid {
+    box-shadow: -2px 0px 0px $error-color;
+}
